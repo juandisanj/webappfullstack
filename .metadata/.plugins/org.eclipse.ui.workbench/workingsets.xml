@@ -7,4 +7,5 @@
 <workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1572370342938_1" label="Java Test Sources" name="Java Test Sources">
 <item elementID="=spring-boot-backend-apirest/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 </workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1572378025394_2" label="Window Working Set" name="Aggregate for window 1572378025393"/>
 </workingSetManager>
